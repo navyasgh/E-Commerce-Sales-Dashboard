@@ -58,9 +58,17 @@ The objective of this project was to answer key business questions such as:
 
 ---
 
+
 ## Dashboard Preview
 
-![Dashboard Preview](Ecommerce Sales Dashboard.png)
+![Dashboard Preview](Ecommerce%20Sales%20Dashboard.png)
 
 ---
+## Business Recommendations
+Focus marketing efforts on high-performing states like Maharashtra.
+Promote profitable sub-categories such as Printers and Bookcases.
+Optimize COD operations since it is the dominant payment mode.
+Investigate months with low or negative profits to improve sales strategy.
 
+## Author
+Navya Singh

@@ -70,5 +70,3 @@ Promote profitable sub-categories such as Printers and Bookcases.
 Optimize COD operations since it is the dominant payment mode.
 Investigate months with low or negative profits to improve sales strategy.
 
-## Author
-Navya Singh

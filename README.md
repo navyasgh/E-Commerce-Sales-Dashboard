@@ -60,7 +60,7 @@ The objective of this project was to answer key business questions such as:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard/dashboard.png)
+![Dashboard Preview](Ecommerce Sales Dashboard.png)
 
 ---
 
